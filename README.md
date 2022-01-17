@@ -1,4 +1,4 @@
-# Credit-Fraud-Detection 
+# Credit-Fraud-Detection : Isolation Forest Algorithm and Local Outlier Factor
 
 
 Credit Card Kaggle Anamoly Detection
