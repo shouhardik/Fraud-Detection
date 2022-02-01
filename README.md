@@ -1,7 +1,7 @@
 # Credit-Fraud-Detection : Isolation Forest Algorithm and Local Outlier Factor
 
 
-Credit Card Kaggle Anamoly Detection
+Credit Card Kaggle Anamoly  Detection
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
